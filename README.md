@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @MariusMrGreen
-- 👀 I’m interested in .NET Core, C#, Angular
+- 👀 I’m interested in .NET, .NET Core, ASP.NET MVC, C#, Angular
 - 🌱 I’m currently learning Vue.Js, Quasar, Angular
 - 📫 How to reach me: mariusmrgreen@gmail.com
 
